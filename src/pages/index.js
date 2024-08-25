@@ -1,0 +1,14 @@
+export { default as Home } from './Home.jsx';
+export { default as Error } from './Error.jsx';
+export { default as PhimLe } from './PhimLe.jsx';
+export { default as PhimBo } from './PhimBo.jsx';
+export { default as HomePage } from './HomePage.jsx';
+export { default as SapChieu } from './SapChieu.jsx';
+export { default as Phim18Cong } from './Phim18Cong.jsx';
+export { default as MovieInfo } from './MovieInfo.jsx';
+export { default as TVShows } from './TVShows.jsx';
+export { default as HoatHinh } from './HoatHinh.jsx';
+export { default as MovieWatch } from './MovieWatch.jsx';
+export { default as Theloai } from './Theloai.jsx';
+export { default as QuocGia } from './QuocGia.jsx';
+export { default as SearchPage } from './SearchPage.jsx';
